@@ -12,3 +12,10 @@ Most of the components are built using MS's [fluent-ui](https://developer.micros
 
 ### Dark
 ![image](https://user-images.githubusercontent.com/84045141/192150113-20742726-864c-4294-b06b-8b284c6cb885.png)
+
+## How to use
+- Download the latest release from this repo
+- Import the Managed Solution to your target D365 instance 
+- Navigate into a form configuration 
+- Insert a new grid on the form 
+- Navigate into the control section and select the `WebResourceInlineEditor` control 
